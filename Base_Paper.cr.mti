@@ -1,0 +1,177 @@
+C:/altera/13.0/input_table_b.v {1 {vlog -work work C:/altera/13.0/input_table_b.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module iptb
+
+Top level modules:
+	iptb
+
+} {} {}} C:/altera/13.0/10_bit_sub.v {1 {vlog -work work C:/altera/13.0/10_bit_sub.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sub10
+
+Top level modules:
+	sub10
+
+} {} {}} C:/altera/13.0/CSA_unit2.v {1 {vlog -work work C:/altera/13.0/CSA_unit2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module csas
+
+Top level modules:
+	csas
+
+} {} {}} C:/altera/13.0/MUX16_1.v {1 {vlog -work work C:/altera/13.0/MUX16_1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux16_1
+
+Top level modules:
+	mux16_1
+
+} {} {}} C:/altera/13.0/CSA_Block.v {1 {vlog -work work C:/altera/13.0/CSA_Block.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module cb
+
+Top level modules:
+	cb
+
+} {} {}} C:/altera/13.0/Register_Table15.v {1 {vlog -work work C:/altera/13.0/Register_Table15.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module rgt15
+
+Top level modules:
+	rgt15
+
+} {} {}} C:/altera/13.0/MUX8_1.v {1 {vlog -work work C:/altera/13.0/MUX8_1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux8_1
+
+Top level modules:
+	mux8_1
+
+} {} {}} C:/altera/13.0/Full_Adder.v {1 {vlog -work work C:/altera/13.0/Full_Adder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FA
+
+Top level modules:
+	FA
+
+} {} {}} C:/altera/13.0/ControlWord_SignMagnitude.v {1 {vlog -work work C:/altera/13.0/ControlWord_SignMagnitude.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module cwsm
+
+Top level modules:
+	cwsm
+
+} {} {}} C:/altera/13.0/T_flip_flop_pre.v {1 {vlog -work work C:/altera/13.0/T_flip_flop_pre.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tffpr
+
+Top level modules:
+	tffpr
+
+} {} {}} C:/altera/13.0/input_reg_table.v {1 {vlog -work work C:/altera/13.0/input_reg_table.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module irt
+
+Top level modules:
+	irt
+
+} {} {}} C:/altera/13.0/Output_Error_Block.v {1 {vlog -work work C:/altera/13.0/Output_Error_Block.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module oeb
+
+Top level modules:
+	oeb
+
+} {} {}} C:/altera/13.0/D_flip_flop_pre.v {1 {vlog -work work C:/altera/13.0/D_flip_flop_pre.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Dffpr
+
+Top level modules:
+	Dffpr
+
+} {} {}} C:/altera/13.0/DA.v {1 {vlog -work work C:/altera/13.0/DA.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DA
+
+Top level modules:
+	DA
+
+} {} {}} C:/altera/13.0/T_flip_flop.v {1 {vlog -work work C:/altera/13.0/T_flip_flop.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tffp
+
+Top level modules:
+	tffp
+
+} {} {}} C:/altera/13.0/D_flip_flop.v {1 {vlog -work work C:/altera/13.0/D_flip_flop.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Dffp
+
+Top level modules:
+	Dffp
+
+} {} {}} C:/altera/13.0/10_bit_add.v {1 {vlog -work work C:/altera/13.0/10_bit_add.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module add10
+
+Top level modules:
+	add10
+
+} {} {}} C:/altera/13.0/counter8.v {1 {vlog -work work C:/altera/13.0/counter8.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module count8
+
+Top level modules:
+	count8
+
+} {} {}} C:/altera/13.0/Adder_Block15.v {1 {vlog -work work C:/altera/13.0/Adder_Block15.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module adb15
+
+Top level modules:
+	adb15
+
+} {} {}} C:/altera/13.0/FilterXb.v {1 {vlog -work work C:/altera/13.0/FilterXb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module fxb
+-- Compiling module testfxb
+
+Top level modules:
+	testfxb
+
+} {} {}} C:/altera/13.0/10_bit_addsub.v {1 {vlog -work work C:/altera/13.0/10_bit_addsub.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module addsub10
+
+Top level modules:
+	addsub10
+
+} {} {}} C:/altera/13.0/Half_Adder.v {1 {vlog -work work C:/altera/13.0/Half_Adder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module HA
+
+Top level modules:
+	HA
+
+} {} {}} C:/altera/13.0/Barrel_Shifter_Block15.v {1 {vlog -work work C:/altera/13.0/Barrel_Shifter_Block15.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module bsb15
+
+Top level modules:
+	bsb15
+
+} {} {}} C:/altera/13.0/MUX2_1.v {1 {vlog -work work C:/altera/13.0/MUX2_1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mux2_1
+
+Top level modules:
+	Mux2_1
+
+} {} {}} C:/altera/13.0/Barrel_Shifter_Base.v {1 {vlog -work work C:/altera/13.0/Barrel_Shifter_Base.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module bsmb
+
+Top level modules:
+	bsmb
+
+} {} {}}
